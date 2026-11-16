@@ -3,7 +3,11 @@ img {
 }
 body {
   text-align: center;
-  font-family: cursive;
   background: #8769da;
   color: rgb(102, 11, 4);
+}
+.marck-script-regular {
+  font-family: "Marck Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
